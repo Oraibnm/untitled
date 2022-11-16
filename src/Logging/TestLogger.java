@@ -34,6 +34,7 @@ public class TestLogger {
         FINER
         FINEST
     */
+        System.out.println("test");
 
 
 
